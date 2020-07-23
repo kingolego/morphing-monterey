@@ -334,6 +334,7 @@ Full-Width Styles
   overflow: hidden;
   background: url(../images/icon-pdf-download-860x860.jpg) no-repeat;
   margin-left: 10px;
+  background-size: cover;
 }
 
 .zip_download_link {
